@@ -4,9 +4,9 @@
 This assignment aims to familiarize students with the Expo environment and React Native development using TypeScript. Students are tasked with creating a replica of a chosen mobile app interface within an Expo project. The assignment includes integrating a snapshot of the app interface, styling it with React Native components, and implementing basic functionality such as an alert button.
 
 ## Team Members
-- **Member 1:** [Member 1's Name] - Student ID: [ID]
-- **Member 2:** [Member 2's Name] - Student ID: [ID]
-- **Member 3:** [Member 3's Name] - Student ID: [ID]
+- **Member 1:** [Sukhman](https://github.com/SUKHMAN-SINGH-1612)
+- **Member 2:** [Aleena](https://github.com/Aleenaali24)
+- **Member 3:** [Zarish] - Student ID: [ID]
 
 Each member is responsible for contributing to the project repository on GitHub, ensuring at least three commits are made per member. The team will demonstrate the project's functionality on both Android and iOS platforms during an in-person session as per the course requirements.
 
