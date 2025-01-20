@@ -6,7 +6,7 @@ This assignment aims to familiarize students with the Expo environment and React
 ## Team Members
 - **Member 1:** [Sukhman](https://github.com/SUKHMAN-SINGH-1612)
 - **Member 2:** [Aleena](https://github.com/Aleenaali24)
-- **Member 3:** [Zarish] - Student ID: [ID]
+- **Member 3:** [Zarish](https://github.com/zarishbilal)
 
 Each member is responsible for contributing to the project repository on GitHub, ensuring at least three commits are made per member. The team will demonstrate the project's functionality on both Android and iOS platforms during an in-person session as per the course requirements.
 
