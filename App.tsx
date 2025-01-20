@@ -32,4 +32,20 @@ import Ionicons from '@expo/vector-icons/Ionicons';
         <Text>Admins</Text>
         </View>
       </View>
+      <View style={styles.thirdRow}>
+        <Text>College and University</Text>
+        <Text>We inspire, educate and innovate, with and for our students.</Text>        
+        <Text>Tag your 📸 With #HereAtSait for a chance to be featured.</Text>
+      </View>
+   
+   
+    <View>
+      <TouchableOpacity style={styles.button}
+        onPress={() =>
+        alert('I am clicked')}
+        >
+        <Text style={styles.buttonText}>Member</Text>
+        <AntDesign name="down" size={20} color="black" />
+        </TouchableOpacity>
+    </View>
  
