@@ -16,3 +16,20 @@ import Ionicons from '@expo/vector-icons/Ionicons';
       </View>
         <FontAwesome name="plus-square-o" size={24} color="black" />
 </View>
+
+<View style={[styles.row, styles.secondRow]} >
+      <Image source={require('./assets/sait.jpg')} style={styles.image}/>
+        <View style={styles.textContainer}>
+        <Text style={styles.numberText}>53</Text>
+        <Text>Posts</Text>
+        </View >
+        <View style={styles.textContainer}>
+        <Text style={styles.numberText}>12</Text>
+        <Text>Members</Text>
+        </View>
+        <View style={styles.textContainer}>
+        <Text style={styles.numberText}>1</Text>
+        <Text>Admins</Text>
+        </View>
+      </View>
+ 
